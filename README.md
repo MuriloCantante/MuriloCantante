@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a 21-year-old passionate about development and technology. Currently pursuing a degree in Systems Analysis and Development, I am continuously expanding my skills in programming. With a proactive mindset and a strong ability to work in teams, I am dedicated to growing in the tech industry and staying up to date with the latest trends and innovations. 🚀</p>
+<p align="left">I am a 22-year-old passionate about development and technology. Currently pursuing a degree in Systems Analysis and Development, I am continuously expanding my skills in programming. With a proactive mindset and a strong ability to work in teams, I am dedicated to growing in the tech industry and staying up to date with the latest trends and innovations. 🚀</p>
 
 ###
 
